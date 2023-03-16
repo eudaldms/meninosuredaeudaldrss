@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Historia 1</title>
+      <link>https://www.mipaginaweb.com/historias/historia1</link>
+      <description>Rusia ataca en varias regiones de Ucrania con decenas de misiles y drones</description>
+      <pubDate>Mon, 07 Mar 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Historia 2</title>
+      <link>https://www.mipaginaweb.com/historias/historia2</link>
+      <description>La protesta contra la reforma judicial en Israel eleva el pulso con un “Día de la resistencia contra la dictadura”</description>
+      <pubDate>Sat, 05 Mar 2023 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Historia 3</title>
+      <link>https://www.mipaginaweb.com/historias/historia3</link>
+      <description>Las protestas tumban en Georgia la polémica ley de agentes extranjeros</description>
+      <pubDate>Thu, 03 Mar 2023 15:20:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

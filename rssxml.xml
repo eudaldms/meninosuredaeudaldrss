@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		
+		<title>Noticias Canal de unas risas con... </title>
+		<link>https://paginaswebhistoriass.000webhostapp.com</link>
+		<description>Blog con tres noticias y tres audios</description>
+		
+		<item>
+			<title>Rusia ataca</title>
+			<link>https://paginaswebhistoriass.000webhostapp.com/paginas/pagina1.html</link>
+			<description>Rusia ha vuelto a lanzar un ataque masivo contra una decena de regiones de Ucrania, entre ellas, Lviv (oeste), Odesa y Jersón (sur), Járkov (norte), Dnipró (este) y Kiev (centro). Ha sido una noche larga y complicada, envuelta en la incertidumbre que genera el escuchar durante horas las alarmas a lo largo del país. Hay, al menos, nueve muertos en Lviv, Dnipró y Jersón, según las autoridades.</description>
+		</item>
+		<item>
+			<title>Protesta para israel</title>
+			<link>https://paginaswebhistoriass.000webhostapp.com/paginas/pagina2.html</link>
+			<description>El movimiento de protesta por la reforma judicial en Israel ha elevado este jueves su pulso al Gobierno con lo que han denominado “Día de la resistencia contra la dictadura”, que incluye acciones en distintos puntos del país, entre las que destaca el corte de carreteras y una concentración en el principal aeropuerto israelí, Ben Gurión, para tratar de impedir que el primer ministro, Benjamín Netanyahu, vuele a Roma para reunirse con su homóloga italiana, Giorgia Meloni. </description>
+		</item>
+		<item>
+			<title>Manifestacion masiva</title>
+			<link>https://paginaswebhistoriass.000webhostapp.com/paginas/pagina3.html</link>
+			<description>El partido gobernante decide retirar definitivamente una medida inspirada en la legislación rusa para controlar a medios y ONG. La oposición desconfía y mantiene las manifestaciones
+				Dos jornadas de manifestaciones masivas y las críticas de la Unión Europea han echado por tierra el intento del primer partido de Georgia, Sueño Georgiano, de aprobar una ley inspirada en la legislación rusa para amordazar a medios de comunicación y organizaciones no gubernamentales.</description>
+		</item>
+		
+	</channel>
+</rss>

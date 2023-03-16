@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedor{
+   
+        width: 1350px;
+       align-items: center; 
+    
+       margin: 0 auto 0 auto;
+        
+    
+}
+
+
+.cabeza{
+    display: flex;
+    margin-left: 150px;
+}
+
+.cabezon{
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.cabeza h1{
+  
+    font-family: 'Irish Grover', cursive;
+    color: rgb(161, 47, 47);
+    font-size: 125px;
+    width: 1500px;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+.rss{
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    height: 60px;
+    width: 60px;
+}
+
+
+.rss2{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 45px;
+}
+
+.micro{
+    font-size: 60px;
+    margin-left: 50px;
+    color: black;
+}
+
+.centro{
+    display: flex;
+    margin-top: 250px;
+    width: 1350px;
+} 
+
+.centro div{
+    margin-left: 400px;
+}
+
+.historias{
+    font-family: 'Irish Grover', cursive;
+}
+
+.chistes{
+    font-family: 'Irish Grover', cursive; 
+}
+
+.historia1{
+    border: 1px solid;
+    width: 300px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.historia1 h3{
+    margin-left: 10px;
+    
+}
+
+.historia1 p{
+    margin-bottom: 15px;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 15px;
+  
+}
+.centrado{
+    margin-top: 50px;
+    display: flex;
+    margin-left: -50px;
+}
+
+.centrado a{
+    text-decoration: none;
+    color: black;
+}
+
+.centrado div{
+    margin-left: 25px;
+}
+
+.audios{
+    border: 1px solid;
+    width: 350px;
+    height: 280px;
+
+}
+
+.audios audio{
+    margin-bottom: 25px;
+}
+.audios div{
+    margin-top: 50px;
+}
